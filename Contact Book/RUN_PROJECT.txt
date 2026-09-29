@@ -1,0 +1,3 @@
+Run: python contact_book.py
+
+Test: python -m unittest discover -s tests -v

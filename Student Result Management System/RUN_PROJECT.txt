@@ -1,0 +1,3 @@
+Run: python student_result_management.py
+
+Test: python -m unittest discover -s tests -v
